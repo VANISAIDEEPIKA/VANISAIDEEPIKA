@@ -1,5 +1,5 @@
 # Hey there 👋  
-I'm **Vani Sai Deepika (VSD)** — a curious CSE student shaping a hybrid career that blends backend engineering with machine learning and AI tools.
+I'm **Vani Sai Deepika (VSD)** —  not a pro yet, but learning to write clean backend code and explore Machine Learning & AI tools that make tech feel a little more magical.
 
 🔧 I'm not just another Python dev — I'm evolving into a **Backend Developer who speaks both API and ML fluently**, building apps that *actually solve real problems.*
 
