@@ -34,6 +34,7 @@ To become a **ML-Enhanced Python Backend Developer** who crafts intelligent, rea
 
 🎓 3rd Year B.Tech CSE @ RISHI MS Institute of Engineering and Technology for Women  
 💻 **Current Intern** @ Summer of AI 2025 – AI/ML + Backend Focus  
+🌐 Powered by VISWAM.AI × IIITH × Meta × TASK, under the visionary mentorship of Swecha Telangana, bridging tech and tradition 🌿      
 📊 **Completed Internship** @ Edunet Foundation – Built ML Fitness Tracker  
 🧠 **Seminar & Project Team Lead** – Driving ideas, innovation, and impact
 
