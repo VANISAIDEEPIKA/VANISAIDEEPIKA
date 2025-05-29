@@ -46,7 +46,7 @@ To become a **ML-Enhanced Python Backend Developer** who crafts intelligent, rea
 ML-based fitness level predictor using Random Forest Classifier  
 `Python • Streamlit • scikit-learn • NumPy`
 
-📔 **Diary-Dock**  
+📔 **Diary-Dock**  (Static Website)    
 A minimal personal diary web app for journaling and reflection  
 `HTML • CSS • JavaScript`
 
@@ -56,7 +56,7 @@ Predictive model analyzing stock market trends
 
 ---
 
-## 🔥 Skills
+## 🔥 Skills [Still Leveling Up]
 
 **Languages & Frameworks:**  
 `Python • Django • FastAPI • HTML/CSS/JS • Tailwind CSS`
